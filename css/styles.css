@@ -1,0 +1,107 @@
+
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: "Zen Old Mincho", serif;
+    font-size: 20px;
+}
+
+hr{
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 8px;
+    border-color: #EAF6F6;
+    margin: 80px auto ;
+}
+.name{
+    font-family: "Bungee Spice", serif;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 30px;
+    color: #5d0d8b;
+}
+
+h3{
+    color:#5d0d8b;
+}
+
+.upper-h2{
+
+    color:#ffd4e7;
+}
+
+.skill-row{
+    width: 40%;
+    margin:100px auto;
+}
+
+.top-container{
+    background-color: #1D1B38;
+    color:#F6BED6;
+    padding: 100px;
+    padding-bottom: 0;
+    border-color: black;
+    position: relative;
+}
+
+.middle-container{
+    padding: 100px 0;
+    background-color: #F6BED6;
+    
+}
+.developer{
+    margin-right: 30px;
+    height: 150px;
+    float: left;
+}
+.bird{
+    margin-left: 30px;
+    height: 150px;
+    float: right;
+
+}
+.bottom-container{
+    padding: 20px;
+    background-color: mediumvioletred;
+}
+
+.button-cm{
+    border:none;
+    border-radius: 10px;
+    padding: 15px 20px;
+    background-color: #5d0d8b;
+    color:#F6BED6;
+    font-size: 1em;
+}
+
+.top-cloud{
+    
+    position:absolute;
+    right: 300px;
+    bottom: 570px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px
+}
+
+.mypic{
+    height: 250px;
+    border-radius: 100%;
+}
+
+.footer-link{
+    margin: 20px;
+    text-decoration: none;
+    color: rgb(146, 14, 98);
+    font-size: 1.2em;
+}
+.footer-link:hover{
+    color:#EAF6F6;
+}
